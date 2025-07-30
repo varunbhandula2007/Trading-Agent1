@@ -1,0 +1,6 @@
+# requirements.txt
+# (No external libraries needed for now)
+# You can later add:
+# requests
+# pandas
+# ta (for technical indicators)
