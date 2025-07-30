@@ -1,0 +1,13 @@
+# 🤖 Trading-Agent1
+
+This is a simple Python-based AI Trading Agent built for demo and testing purposes.
+
+### 📂 Files
+
+- `main.py` → Launches the agent and prints trade signals.
+- `AI_Brain.py` → Contains logic for generating "BUY", "SELL", or "HOLD" signals.
+- `requirements.txt` → List of Python libraries used (currently none).
+
+### 🚀 How to Run
+
+1. Clone the repo:
